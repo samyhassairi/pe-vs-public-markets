@@ -1,0 +1,11 @@
+# Raw data: copyrighted reports, download links in 01_data_raw/README.md
+01_data_raw/*
+!01_data_raw/README.md
+
+# Full tables extracted from Cambridge Associates reports
+02_data_clean/ca_*.csv
+
+# System and temporary files
+.DS_Store
+.ipynb_checkpoints/
+~$*
