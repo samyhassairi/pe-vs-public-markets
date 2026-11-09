@@ -9,18 +9,21 @@
 
 ## Key findings
 
+**PE’s edge sits with the managers, not with the asset class.** On average, US private equity has not cleared the return hurdle investors set for it; it pays off for investors who can access top-quartile funds and keep committing through the cycle.
+
+A data synthesis that updates established findings (Kaplan & Schoar, 2005; Harris, Jenkinson & Kaplan, 2014) with Cambridge Associates data to March 2026.
+
 | | Finding |
 |---|---|
 | **Long run** | Over 25 years, US PE returned 12.76% a year, vs 8.74% for the S&P 500 and 6.18% for Baa corporate bonds. |
-| **Measured like-for-like** | Against the same cash flows invested in the Russell 3000 (mPME), the 25-year PE premium is +273 bps a year, just below the c. 3-point hurdle many pension funds use. |
-| **Short run** | Over 1 to 5 years, PE trailed US public equities (Russell 3000, mPME) by 228 to 1,196 bps a year. |
-| **Vintage matters** | Funds raised after the dot-com crash (2001–2003) beat the S&P 500 mPME by c. 1,240 bps a year; funds raised at the pre-GFC peak (2005–2008) slightly lagged it. |
-| **The manager matters most** | The gap between top- and bottom-quartile funds averaged 14.1 points a year, about 2.5 times the average PE value-add (5.5 points). |
-| **Measurement matters** | Against the same index, a naive IRR-vs-index comparison misstates the PE premium by up to 1.5 points a year. |
+| **Below the hurdle vs the broad market** | Measured like-for-like (mPME), PE beat the Russell 3000 by 2.7 points a year over 25 years, short of the c. 3-point hurdle many pension funds use. |
+| **A thin pass vs small caps** | Against the Russell 2000, the premium is 3.7 points. Neither index adjusts for buyout leverage. |
+| **Vintage matters, but could not be timed** | Value-add tracks public markets during a fund's life (r = −0.41), not before its launch (r = +0.12). |
+| **Dispersion is a risk, not an edge** | Top-quartile thresholds beat the S&P 500 mPME by 11.5 points a year; bottom-quartile thresholds trailed it by 2.7. Past performance is a weak predictor. |
 
-![PE value-add by vintage](05_outputs/03_value_add_by_vintage.png)
+![PE premium vs the 3-point hurdle](05_outputs/05_premium_vs_hurdle.png)
 
-![Dispersion of fund returns by vintage](05_outputs/04_dispersion_by_vintage.png)
+![Vintage timing test](05_outputs/06_vintage_timing_test.png)
 
 ## Method
 
